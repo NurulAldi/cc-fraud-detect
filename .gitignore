@@ -1,2 +1,5 @@
 .venv
 data/creditcard.csv
+notebooks/explanation.ipynb
+notebooks/eda.ipynb
+notebooks/notebook.ipynb
